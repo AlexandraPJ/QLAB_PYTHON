@@ -26,7 +26,7 @@ Se pueden encontrar las bases de datos en el portal de microdatos del INEI https
 | P311B$6        | Monto de APAFA                                                                  |
 | P311B$7        | Monto de Otros (Fotocopias, cuotas extraordinarias, etc)                        |
 
-**Sumaria:** (Módulo 34) 
+**Sumaria (Módulo 34):** 
 | **Variable**   | **Descripción**                              |
 |----------------|----------------------------------------------|
 | CONGLOME       | Número de Conglomerado                       |
